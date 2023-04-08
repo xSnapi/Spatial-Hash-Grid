@@ -1,0 +1,12 @@
+# Binaries
+**/bin/
+
+# Saves
+**/saved/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
